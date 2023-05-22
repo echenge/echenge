@@ -98,8 +98,8 @@ enableGitInfo = true
         # 内置了 `girl.jpg, wukong.jpg, and tux.jpg`，当然你可以
         # 把自己喜欢图片放在 `static/imgs/` 目录中，并在 `src` 引用它,
         # 你还可以通过 `width` 调整引入图片的显示大小
-        src = 'tux.jpg'
-        width = 900
+        src = 'tux1.jpg'
+        width = 576
         #words = "Stay hungry, Stay foolish. <br>Your time is limited, so don't waste it living someone else's life. <br>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary. <br>-- Steve Jobs."
         #words = "多少事，从来急；<br>天地转，光阴迫。<br>一万年太久，只争朝夕。<br>-- 教员"
         #words = "“照顾好自己的身体和情绪，<br>这场人生，<br>你就赢了一大半，<br>其余的其余，<br>人生自有安排。”"
