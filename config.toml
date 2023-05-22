@@ -1,6 +1,6 @@
-baseURL = 'https://did7.com/'
+baseURL = 'https://echenge.com/'
 languageCode = 'zh-cn'
-title = 'DID7'
+title = '一乘一_以城以'
 
 # 启用主题
 theme = 'virgo'
@@ -11,8 +11,8 @@ paginate = 12
 enableGitInfo = true
 
 [params]
-    author = 'ZHC'
-    slogan = 'Love myself,Love ZEC.'
+    author = 'ZEC'
+    slogan = 'Health, Safety, and Happiness.'
 
     # 页面语言，默认中文
     en = false
@@ -98,20 +98,20 @@ enableGitInfo = true
         # 内置了 `girl.jpg, wukong.jpg, and tux.jpg`，当然你可以
         # 把自己喜欢图片放在 `static/imgs/` 目录中，并在 `src` 引用它,
         # 你还可以通过 `width` 调整引入图片的显示大小
-        src = 'xiyou4.jpg'
-        width = 794
+        src = 'tux.jpg'
+        width = 900
         #words = "Stay hungry, Stay foolish. <br>Your time is limited, so don't waste it living someone else's life. <br>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary. <br>-- Steve Jobs."
         #words = "多少事，从来急；<br>天地转，光阴迫。<br>一万年太久，只争朝夕。<br>-- 教员"
         #words = "“照顾好自己的身体和情绪，<br>这场人生，<br>你就赢了一大半，<br>其余的其余，<br>人生自有安排。”"
 
     [params.contact]
-        icp = 'By ZHC'             # 备案号，如果你不想显示，设置为 '豫ICP备2022002918号-1' 空即可
+        icp = 'By ZEC'             # 备案号，如果你不想显示，设置为 '豫ICP备2022002918号-1' 空即可
         icplink = ''           # 备案链接//beian.miit.gov.cn
-        weibo = '1670641292'                     # e.g. https://weibo.com/u/1670641292
+        # weibo = '1670641292'                     # e.g. https://weibo.com/u/1670641292
         wechat = 'imgs/bg/wechat-public.jpg'           # 微信二维码地址
         # zhihu = 'did7'                   # e.g. https://www.zhihu.com/people/did7
         # jianshu = 'flyman666'                # e.g. https://www.jianshu.com/u/eebcc2974936
-        email = 'flyman666@gmail.com'
+        # email = 'flyman666@gmail.com'
         # github = 'flyman666'                  # e.g. https://github.com/loveminimal
         bilibili = '406912365'                   # e.g. https://space.bilibili.com/11608450
         # twitter = 'did7'                 # e.g. https://twitter.com/loveminimal163
@@ -120,11 +120,11 @@ enableGitInfo = true
         # youtube = 'UCkWIBwe3rZTDAmBs0GJngkA' # e.g. https://www.youtube.com/channel/UCkWIBwe3rZTDAmBs0GJngkA
         # telegram = 'https://web.telegram.org/z/'
         color = '#696969'                        # 图标颜色，默认为浅灰色
-        slogan = 'Find me via : )'               # 联系标语，不想显示，可以置空
+        slogan = 'Be my friend : )'               # 联系标语，不想显示，可以置空
 
     [params.utterances]
-        active = true                             # 是否启用评论插件
-        repo = "flyman666/did7"               # 输入你的仓库名称
+        active = false                             # 是否启用评论插件
+        repo = "echenge/echenge"               # 输入你的仓库名称
         issueTerm = "pathname"
         theme = "github-light"
         crossorigin = "anonymous"

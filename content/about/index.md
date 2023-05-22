@@ -9,17 +9,17 @@ weight: 0
 ---
 
 ```
-人的一生，会长大三次。
-第一次，是发现自己不是世界中心的时候；
-第二次，是发现即使再怎么努力，终究还是有些事令人无能为力的时候；
-第三次，是明知道有些事可能是无能为力，还是会尽力争取的时候。
+来自老爸的三个祝福：
+NO1.把爱自己永远放在第一位；
+NO2.永远健康、平安、快乐；
+NO3.远离让自己不开心、受损失、有危险的任何人。
 ```
 
 ## 🧪 ME
 
 <figure style="text-align: center;">
-	<figcaption style="color: #d69; font-size: 14px;">真诚如‘我’</figcaption>
-	<img style="border-radius: 10px; box-shadow: 3px 3px 5px #ccc; margin: 8px auto;" alt="picture 2" src="imgs/abme2.jpg" width="500" />  
+	<figcaption style="color: #d69; font-size: 14px;">‘我’是以城</figcaption>
+	<img style="border-radius: 10px; box-shadow: 3px 3px 5px #ccc; margin: 8px auto;" alt="picture 2" src="imgs/abme3.jpg" width="500" />  
 </figure>
 
 ---
