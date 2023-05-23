@@ -81,7 +81,7 @@ enableGitInfo = true
             active = true
             path = '/posts/wiki'
             en = 'Wiki'
-            zh = '百科'
+            zh = '成长'
             icon = '🚀'
         [params.menu.55]
             active = true
