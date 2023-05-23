@@ -123,7 +123,7 @@ enableGitInfo = true
         slogan = 'Be my friend : )'               # 联系标语，不想显示，可以置空
 
     [params.utterances]
-        active = false                             # 是否启用评论插件
+        active = true                             # 是否启用评论插件
         repo = "echenge/echenge"               # 输入你的仓库名称
         issueTerm = "pathname"
         theme = "github-light"
