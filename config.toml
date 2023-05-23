@@ -51,14 +51,14 @@ enableGitInfo = true
     # About - about.md or about/index.md
     # -----------------------------------
     # 菜单选项定制，使用 `00、01、23` 等进行选项顺序调整
-    # 🐶🎉👀💡👓🐌
+    # 🐶🎉👀💡👓🐌🎯🎭
     [params.menu]
         [params.menu.00]
             active = true
             path = '/nav'
-            en = 'Nav'
-            zh = '导航'
-            icon = '🎯'
+            en = 'Vision'
+            zh = '视野'
+            icon = '👀'
         [params.menu.11]
             active = true
             path = '/search'
@@ -69,25 +69,25 @@ enableGitInfo = true
             active = true
             path = '/posts'
             en = 'Posts'
-            zh = '文章'
-            icon = '📜'
+            zh = '想法'
+            icon = '💡'
         [params.menu.33]
             active = true
             path = '/archive'
-            en = 'Archive'
-            zh = '归档'
-            icon = '🎉'
+            en = 'Arrange'
+            zh = '整理'
+            icon = '🎭'
         [params.menu.44]
             active = true
             path = '/posts/wiki'
-            en = 'Wiki'
+            en = 'Photo'
             zh = '成长'
             icon = '🚀'
         [params.menu.55]
             active = true
             path = '/about'
-            en = 'About'
-            zh = '关于'
+            en = 'EChenge'
+            zh = '以城'
             icon = '🐌' 
     
     # 首页图片/文字
