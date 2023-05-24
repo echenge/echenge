@@ -3,7 +3,7 @@ title: "Photo"
 date: 2022-07-28T12:26:30+08:00
 draft: false
 categories: [成长瞬间]
-tags: [照片]
+tags: [成长]
 card: true
 weight: 0
 ---
