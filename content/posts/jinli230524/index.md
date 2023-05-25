@@ -1,5 +1,5 @@
 ---
-title: "我的大锦鲤缸_一乘一_以城以"
+title: "我的大锦鲤缸"
 date: 2023-02-02T15:20:33+08:00
 draft: false
 categories: [宠物]

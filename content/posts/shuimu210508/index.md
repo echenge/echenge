@@ -1,5 +1,5 @@
 ---
-title: "我和爸爸养水母_一乘一_以城以"
+title: "我和爸爸养水母"
 date: 2021-05-08T14:02:25+08:00
 draft: false
 categories: [宠物]
