@@ -10,10 +10,10 @@ tags: []
 
 ## 🌞 *我的 MINE*
 - [DID7-老爸主页](https://did7.com/)
-- [网易云音乐](https://music.163.com/)
-- [Bilibili](https://bilibili.com/)
-- [知乎](https://www.zhihu.com/)
-- [简书](https://www.jianshu.com/)
+- [SCI-HUB](https://sci-hub.ru/)
+- [ChatGPT](https://chat.openai.com/)
+- [Call Annie](https://callannie.ai/call)
+- [Claude](https://slack.com/)
 - [腾讯云](https://console.cloud.tencent.com/)
 - [微信公众平台](https://mp.weixin.qq.com/)
 - [华为云](https://cloud.huawei.com/home#/home)
@@ -57,5 +57,6 @@ tags: []
 <div class="bookmark">
 
 - 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。
+- ERIC CHENG      http://echeng.com/
 
 </div>
