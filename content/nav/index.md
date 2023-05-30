@@ -14,11 +14,9 @@ tags: []
 - [ChatGPT](https://chat.openai.com/)
 - [Call Annie](https://callannie.ai/call)
 - [Claude](https://slack.com/)
-- [腾讯云](https://console.cloud.tencent.com/)
-- [微信公众平台](https://mp.weixin.qq.com/)
-- [华为云](https://cloud.huawei.com/home#/home)
-- [虎扑](https://www.hupu.com/)
-- [软考](https://www.ruankao.org.cn/)
+- [Bilibili](https://www.bilibili.com/)
+- [免费50种语言学习](https://www.loecsen.com/zh)
+- [A姐分享](https://www.ahhhhfs.com/)
 
 <!-- ## 🔔 *论坛 FORUM* -->
 
