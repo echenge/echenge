@@ -10,7 +10,8 @@ weight: 0
 
 ### 先给大家看下我的蛋仔手办
 - 
-- <img alt="图 1" src="imgs/6372f2de790127ea436658211169fc7e1aafc91ca0f04cb8402d623308f8a295.png" width="400" />  
+-  <img alt="图 2" src="imgs/cb59f6ecdb8fc85d29107baf241e4f65248918ec91a8babf8908f9cddb697a49.jpg" width="400" />  
+- 
 - 怎么样？漂亮吧？是不是超萌超可爱？
 ### 给大家介绍一下蛋仔
 - 上面的手办是我最近正在玩的一个蛋仔排队游戏
